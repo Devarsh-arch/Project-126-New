@@ -1,0 +1,16 @@
+.div_heading{
+	width: 100%;
+	border: 2px solid chartreuse;
+	border-radius: 15px;
+}
+#song_name_h3{
+	font-size: 17px;
+	box-shadow: 5px 5px 5px black;
+}
+canvas{
+	border-bottom: 3px solid red;
+	border-left: 3px solid green;
+	border-top: blue;
+	border-right: yellow;
+	border-radius: 20px;
+}
